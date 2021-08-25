@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#Halo semua!
+
+Perkenalkan nama saya **Tata Redha Al Fath**
+
+saya sebagai Peserta SIB di Dicoding
+
+Saya mengikuti program SIB Pengembangan FrontEnd & BackEnd
+
+Ingin tau lebih lanjut, silahkan ikuti akun
+[LinkedIn](https://www.linkedin.com/in/tata-redha-al-fath-34034920a/)

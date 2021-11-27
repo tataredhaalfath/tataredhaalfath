@@ -1,4 +1,4 @@
-### Hello, I'm Redha 👋
+### Hello 👋
 
 <!--
 **tataredhaalfath/tataredhaalfath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-### Hello 👋
+
 
 <!--
 **tataredhaalfath/tataredhaalfath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Perkenalkan nama saya **Tata Redha Al Fath**
-
-saya sebagai Peserta SIB di Dicoding
-
-Saya mengikuti program SIB Pengembangan FrontEnd & BackEnd
+Hi, My Name is Redha, I am a web developer with experience in php and javascript language
+Iam currenly intern in Telkom Regional IV as backend developer
 
 ### Playground
 - Javascript

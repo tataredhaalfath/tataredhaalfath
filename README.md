@@ -21,12 +21,15 @@ Hi, My Name is Redha, I am a web developer with experience in php and javascript
 ### Playground
 - Javascript
 - PHP
+- JAVA
 - NodeJs
 - Express
 - React
 - Laravel
+- Quarkus
 - MYSQL
 - MongoDB
+- PostgreSQL
 
 ### Tech Stack
 

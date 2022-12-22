@@ -19,11 +19,13 @@ Hi, My Name is Redha, I am a web developer with experience in php and javascript
 
 
 ### Playground
-- Javascript
+- Javascript / Typescript
 - PHP
 - JAVA
+- Golang
 - NodeJs
 - Express
+- NestJs
 - ReactJs
 - Laravel
 - CodeIgniter

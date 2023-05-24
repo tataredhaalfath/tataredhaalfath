@@ -26,13 +26,14 @@ Hi, My Name is Redha, I am a web developer with experience in php and javascript
 - NodeJs
 - Express
 - NestJs
-- ReactJs
+- ReactJs / NextJs
 - Laravel
 - CodeIgniter
 - Quarkus
 - MYSQL
 - MongoDB
 - PostgreSQL
+- Docker
 
 ### Tech Stack
 

@@ -33,6 +33,7 @@ Hi, My Name is Redha, I am a web developer with experience in php and javascript
 - MYSQL
 - MongoDB
 - PostgreSQL
+- Redis
 - Docker
 
 ### Tech Stack

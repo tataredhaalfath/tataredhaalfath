@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, My Name is Redha, I am a web developer with experience in php and javascript language
+Hi, My Name is Redha, I am a web developer with experience in multiple programming language
 
 
 ### Playground

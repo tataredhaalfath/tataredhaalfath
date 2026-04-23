@@ -24,7 +24,10 @@ Hi, My Name is Redha, I am a web developer with experience in multiple programmi
 - JAVA
 - Golang
 - NodeJs
+- Bun
 - Express
+- Hono
+- AstroJs
 - NestJs
 - ReactJs / NextJs
 - Laravel
@@ -36,6 +39,7 @@ Hi, My Name is Redha, I am a web developer with experience in multiple programmi
 - PostgreSQL
 - Redis
 - Docker
+- RabbitMQ
 
 ### Tech Stack
 
